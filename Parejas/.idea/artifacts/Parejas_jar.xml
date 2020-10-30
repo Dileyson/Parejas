@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Parejas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Parejas_jar</output-path>
+    <root id="archive" name="Parejas.jar">
+      <element id="module-output" name="Parejas" />
+    </root>
+  </artifact>
+</component>
